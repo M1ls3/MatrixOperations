@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 1\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.genruntimeconfig.cache
